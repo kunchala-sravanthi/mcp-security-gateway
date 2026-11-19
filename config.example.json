@@ -1,0 +1,5 @@
+{
+  "upstream_command": "python",
+  "upstream_args": ["-m", "app.sample_server"],
+  "approval_timeout_seconds": 120
+}
