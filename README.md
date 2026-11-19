@@ -434,3 +434,9 @@ The following scenarios were tested during development:
 ## License
 
 Assessment prototype. A suitable open-source license can be added before public distribution.
+
+
+
+## Demo Video
+
+[Watch MCP Security Gateway Demo](https://drive.google.com/file/d/1e5MCPSeYIJtC45NiKQwdHQQvTYRpKWL1/view?usp=sharing)
